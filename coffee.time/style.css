@@ -138,6 +138,7 @@ section {
   width: 35rem;
   background: #fff;
   padding: 0 1.5rem;
+  cursor: pointer;
 }
 .header .cart-items-container.active {
   right: 0;
